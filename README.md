@@ -19,5 +19,5 @@ Python crash designed for chemical engineers and scientists with no previous kno
  
 Materials:
 - [Download the data](http://swcarpentry.github.io/python-novice-inflammation/python-novice-inflammation-data.zip)
-- [Read the full lesson](http://swcarpentry.github.io/python-novice-inflammation/python-novice-inflammation-data.zip)
+- [Read the full lesson](http://swcarpentry.github.io/python-novice-inflammation/01-numpy.html)
  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/CAChemE/Python-Chemical-Engineers)
