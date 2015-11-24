@@ -8,7 +8,7 @@ Python crash designed for chemical engineers and scientists with no previous kno
 * Open discussion
 
 
-## Day #1: NumPy [(original source)](http://swcarpentry.github.io/python-novice-inflammation/01-numpy.html)
+## Day #1: NumPy 
  *   Explain what a library is, and what libraries are used for.
  *   Load a Python library and use the things it contains.
  *   Read tabular data from a file into a program.
@@ -17,4 +17,7 @@ Python crash designed for chemical engineers and scientists with no previous kno
  *   Perform operations on arrays of data.
  *   Display simple graphs.
  
+Materials:
+- [Download the data](http://swcarpentry.github.io/python-novice-inflammation/python-novice-inflammation-data.zip)
+- [Read the full lesson](http://swcarpentry.github.io/python-novice-inflammation/python-novice-inflammation-data.zip)
  
