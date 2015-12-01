@@ -20,4 +20,23 @@ Python crash designed for chemical engineers and scientists with no previous kno
 Materials:
 - [Download the data](http://swcarpentry.github.io/python-novice-inflammation/python-novice-inflammation-data.zip)
 - [Read the full lesson](http://swcarpentry.github.io/python-novice-inflammation/01-numpy.html)
+
+## Day #2: Loops and lists 
+ *   Explain what a for loop does.
+ *   Correctly write for loops to repeat simple calculations.
+ *   Trace changes to a loop variable as the loop runs.
+ *   Trace changes to other variables as they are updated by a for loop.
+ *   Explain what a list is.
+ *   Create and index lists of simple values.
+
+ 
+Materials:
+- Read the full lessons:[L2](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html)[L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
+- [matplotlib gallery](http://matplotlib.org/gallery.html)
+- NumPy - MATLAB: [CheatSheet](http://sebastianraschka.com/Articles/2014_matlab_vs_numpy.html) and [differences](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html).
+- [Python tutor](http://www.pythontutor.com/) (to visualize Python programs)
+ ***
+ 
+ If you cannot install Python in your computer, you can use Binder:
  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/CAChemE/Python-Chemical-Engineers)
+ 
