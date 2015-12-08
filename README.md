@@ -29,11 +29,21 @@ Materials:
  *   Explain what a list is.
  *   Create and index lists of simple values.
 
- 
 Materials:
-- Read the full lessons:[L2](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html)[L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
+- Read the full lessons:[L2](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html), [L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
 - [matplotlib gallery](http://matplotlib.org/gallery.html)
 - NumPy - MATLAB: [CheatSheet](http://sebastianraschka.com/Articles/2014_matlab_vs_numpy.html) and [differences](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html).
+- [Python tutor](http://www.pythontutor.com/) (to visualize Python programs)
+ ***
+
+## Day #3: Lists and how to proces multiple files
+ *   Explain what a list is (recap).
+ *   Create and index lists of simple values (recap).
+ *   Use a library function to get a list of filenames that match a simple wildcard pattern.
+ *   Use a for loop to process multiple files.
+ 
+Materials:
+- Read the full lessons:[L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html), [L4](http://swcarpentry.github.io/python-novice-inflammation/04-files.html)
 - [Python tutor](http://www.pythontutor.com/) (to visualize Python programs)
  ***
  
