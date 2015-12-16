@@ -39,8 +39,12 @@ Materials:
 ## Day #3: Lists and how to proces multiple files
  *   Explain what a list is (recap).
  *   Create and index lists of simple values (recap).
+ 
+## Day #5: Lists and how to proces multiple files
+
  *   Use a library function to get a list of filenames that match a simple wildcard pattern.
  *   Use a for loop to process multiple files.
+ *   Plotting graphs (recap)
  
 Materials:
 - Read the full lessons:[L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html), [L4](http://swcarpentry.github.io/python-novice-inflammation/04-files.html)
