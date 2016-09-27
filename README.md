@@ -66,5 +66,6 @@ Where to go from here?
 * [CAChemE learn](https://github.com/CAChemE/learn#chemical-and-process-engineering-interactive-simulations) (Education resources for Chemical and Process Engineering written as interactive Jupyter Notebooks)
 * Lorena Barba tutorials: [12 Steps to Navier Stokes](https://github.com/barbagroup/CFDPython#welcome-to-cfd-python), [Numerical-mooc](https://github.com/numerical-mooc/numerical-mooc), [AeroPython](https://github.com/barbagroup/AeroPython#aerodynamics-hydrodynamics-with-python)
 * **[A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)**
+* [Introduction to Chemical Engineering Analysis](http://jckantor.github.io/CBE20255/)
 
  
