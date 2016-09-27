@@ -1,5 +1,5 @@
 # Python for Chemical Engineers
-Python crash designed for chemical engineers and scientists with no previous knowledge. The real goal here isn’t to teach you everything about Python, but you will learn basic concepts that all programming depends on. These informal lessons are divided into 1 hour/week and will be based on [Software-Carpentry Lessons](http://software-carpentry.org/lessons.html)
+Python crash course designed for chemical engineers and scientists with no previous knowledge. The real goal here isn’t to teach you everything about Python, but you will learn basic concepts via something you will need to do soon or later: analyze data. These informal lessons are divided into 1 hour/week and will be based on [Software-Carpentry Lessons](http://software-carpentry.org/lessons.html)
 
 ## Day #0
 * Motivation of learning Python and [why Nature recommends it](http://www.nature.com/news/programming-pick-up-python-1.16833) ([live demo!](http://www.nature.com/news/ipython-interactive-demo-7.21492)). [[1](https://speakerdeck.com/fperez/ipython-and-project-jupyter-a-language-independent-architecture-for-open-computing-and-data-science), [2](http://www.slideshare.net/teoliphant/python-as-the-zen-of-data-science), [3](http://nbviewer.ipython.org/github/fperez/pycon2014-keynote/blob/master/Index.ipynb)]
@@ -18,8 +18,8 @@ Python crash designed for chemical engineers and scientists with no previous kno
  *   Display simple graphs.
  
 Materials:
-- [Download the data](http://swcarpentry.github.io/python-novice-inflammation/python-novice-inflammation-data.zip)
-- [Read the full lesson](http://swcarpentry.github.io/python-novice-inflammation/01-numpy.html)
+- [Download the data](http://swcarpentry.github.io/python-novice-inflammation/setup/)
+- [Read the full lesson](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
 
 ## Day #2: Loops and lists 
  *   Explain what a for loop does.
@@ -30,9 +30,9 @@ Materials:
  *   Create and index lists of simple values.
 
 Materials:
-- Read the full lessons:[L2](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html), [L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
-- [matplotlib gallery](http://matplotlib.org/gallery.html)
-- NumPy - MATLAB: [CheatSheet](http://sebastianraschka.com/Articles/2014_matlab_vs_numpy.html) and [differences](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html).
+- Read the full lessons:[L2](http://swcarpentry.github.io/python-novice-inflammation/02-loop), [L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists)
+- [matplotlib gallery](http://matplotlib.org/gallery)
+- NumPy - MATLAB: [CheatSheet](http://sebastianraschka.com/Articles/2014_matlab_vs_numpy) and [differences](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users).
 - [Python tutor](http://www.pythontutor.com/) (to visualize Python programs)
  ***
 
@@ -47,10 +47,25 @@ Materials:
  *   Plotting graphs (recap)
  
 Materials:
-- Read the full lessons:[L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html), [L4](http://swcarpentry.github.io/python-novice-inflammation/04-files.html)
+- Read the full lessons:[L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists), [L4](http://swcarpentry.github.io/python-novice-inflammation/04-files)
 - [Python tutor](http://www.pythontutor.com/) (to visualize Python programs)
  ***
  
  If you cannot install Python in your computer, you can use Binder:
  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/CAChemE/Python-Chemical-Engineers)
+ 
+ ## Day #6: Analyzing Data from Multiple Files
+[How to repeat operations on many different files?](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
+
+## Day #7: Making Choices and Functions
+[How can my programs do different things based on data values?](http://swcarpentry.github.io/python-novice-inflammation/)
+[Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
+
+Where to go from here?
+* [Rest of Software Carpentry Lessons](http://swcarpentry.github.io/python-novice-inflammation/)
+* [Prof. Kitchin blog](http://kitchingroup.cheme.cmu.edu/blog/2013/12/30/Python-as-alternative-to-Matlab-for-engineering-calculations/) and [free book](http://kitchingroup.cheme.cmu.edu/pycse/)
+* [CAChemE learn](https://github.com/CAChemE/learn#chemical-and-process-engineering-interactive-simulations) (Education resources for Chemical and Process Engineering written as interactive Jupyter Notebooks)
+* Lorena Barba tutorials: [12 Steps to Navier Stokes](https://github.com/barbagroup/CFDPython#welcome-to-cfd-python), [Numerical-mooc](https://github.com/numerical-mooc/numerical-mooc), [AeroPython](https://github.com/barbagroup/AeroPython#aerodynamics-hydrodynamics-with-python)
+* **[A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)**
+
  
