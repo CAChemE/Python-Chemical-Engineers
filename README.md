@@ -49,10 +49,6 @@ Materials:
 Materials:
 - Read the full lessons:[L3](http://swcarpentry.github.io/python-novice-inflammation/03-lists), [L4](http://swcarpentry.github.io/python-novice-inflammation/04-files)
 - [Python tutor](http://www.pythontutor.com/) (to visualize Python programs)
- ***
- 
- If you cannot install Python in your computer, you can use Binder:
- [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/CAChemE/Python-Chemical-Engineers)
  
 ## Day #6: Analyzing Data from Multiple Files
 [How to repeat operations on many different files?](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
@@ -61,6 +57,7 @@ Materials:
 [How can my programs do different things based on data values?](http://swcarpentry.github.io/python-novice-inflammation/)
 [Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
 
+___
 ___
 
 Where to go from here?
